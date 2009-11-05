@@ -1,0 +1,15 @@
+Note: This is just a left-over file that consisted of stuff I was planning on doing next.
+
+ - Critical attacks
+ - Costs for berserk
+ - Perception and stealth
+ - Thievery stat
+ 
+Names and passwords have to be between 3 and 10 characters
+ 
+THE FUTURE:
+ - Re-do the story
+ - "Light" and "stealth" features
+ - Have zombie raids against towns
+ - Save quest status
+ - Support for widescreen resolutions
